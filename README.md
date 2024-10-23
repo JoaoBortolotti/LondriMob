@@ -1,0 +1,1 @@
+O projeto se constitui em desenvolver um aplicativo que o usuário possa locar bicicletas e patinetes para a locomoção facilitada na cidade de Londrina.
